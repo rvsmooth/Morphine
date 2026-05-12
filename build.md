@@ -1,6 +1,5 @@
 cam-scanner: 7.15.5.2604080000  
-proton-vpn (arm64-v8a): 5.17.72.0  
-proton-vpn (arm-v7a): 5.17.72.0  
+proton-vpn: 5.17.72.0  
 smart-launcher-6-morphe: 6.6 build 002 patch 1  
 solid-explorer-morphe: 3.4.1  
 
