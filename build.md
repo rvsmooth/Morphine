@@ -1,3 +1,4 @@
+smart-launcher-6-morphe: 6.6 build 002 patch 1  
 solid-explorer-morphe (arm64-v8a): 3.4.1  
 solid-explorer-morphe (arm-v7a): 3.4.1  
 
