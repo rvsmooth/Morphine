@@ -6,7 +6,7 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 [proton-vpn]
-enabled = false
+enabled = true
 app-name = "proton-vpn"
 rv-brand = "hoodles"
 riplib = true
@@ -18,7 +18,7 @@ uptodown-dlurl = "https://protonvpn.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/geologically/apks/ch.protonvpn.android"
 
 [wps-office-morphe]
-enabled = true
+enabled = false
 app-name = "wps-office"
 rv-brand = "hoodles"
 build-mode = "apk"
