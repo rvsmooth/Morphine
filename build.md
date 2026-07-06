@@ -1,4 +1,4 @@
-cam-scanner: 7.15.5.2604080000  
+cam-scanner: 7.20.0.2606230000  
 proton-vpn (arm64-v8a): 5.17.72.0  
 proton-vpn (arm-v7a): 5.17.72.0  
 smart-launcher-6-morphe: 6.6 build 002 patch 1  
@@ -11,5 +11,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: MorpheApp/morphe-cli-1.9.1-all.jar  
-Patches: hoo-dles/patches-1.38.1.mpp  
-[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.38.1)  
+Patches: hoo-dles/patches-1.38.2.mpp  
+[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.38.2)  
