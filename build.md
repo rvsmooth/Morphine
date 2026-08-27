@@ -1,15 +1,16 @@
-cam-scanner: 7.20.0.2606230000  
-proton-vpn (arm64-v8a): 5.17.72.0  
-proton-vpn (arm-v7a): 5.17.72.0  
+Music-Morphe (arm64-v8a): 9.33.52  
+Music-Morphe (arm-v7a): 9.33.52  
 smart-launcher-6-morphe: 6.6 build 002 patch 1  
-solid-explorer-morphe (arm64-v8a): 3.4.1  
-solid-explorer-morphe (arm-v7a): 3.4.1  
 
-Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
+Install [Microg](https://github.com/MorpheApp/MicroG-RE/) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music modules from Play Store  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-CLI: MorpheApp/morphe-cli-1.9.1-all.jar  
-Patches: hoo-dles/patches-1.38.2.mpp  
-[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.38.2)  
+Patches: hoo-dles/patches-1.41.0.mpp  
+[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.41.0)
+
+Patches: MorpheApp/patches-1.40.0.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.40.0)
+
+CLI: MorpheApp/morphe-desktop-1.14.0-all.jar    
