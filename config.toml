@@ -39,8 +39,8 @@ build-mode = "apk"
 arch = "both"
 patches-source = "hoo-dles/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-file-manager/"
 uptodown-dlurl = "https://solid-explorer-file-manager.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-file-manager/"
 
 [smart-launcher-6-morphe]
 enabled = true
@@ -69,7 +69,6 @@ archive-dlurl = "https://archive.org/download/geologically/apks/com.intsig.camsc
 
 [Music-Morphe]
 app-name = "Music"
-version = "9.33.52"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Morphe"
@@ -78,4 +77,4 @@ arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-excluded-patches = "'Certificate spoof' 'Custom branding' 'Custom branding icon for YouTube Music' 'Custom branding name for YouTube Music' 'Custom branding icon MMT' 'Custom branding icon Revancify Blue' 'Custom branding icon Revancify Red' 'Custom branding icon YouTube Music' 'Custom branding icon YouTube Music' 'Custom playback speed' 'Enable custom filter' 'Enable old style library shelf' 'Enable old style miniplayer' 'Enable zen mode' 'Hide category bar' 'Hide new playlist button' 'Hide playlist card' 'Hide radio button' 'Remember playback speed' 'Replace dismiss queue' 'Return YouTube Dislike' 'SponsorBlock 'Enable debugging' 'Translations'"
+excluded-patches = "Custom branding' 'Custom branding icon for YouTube Music' 'Custom branding name for YouTube Music' 'Custom branding icon MMT' 'Custom branding icon Revancify Blue' 'Custom branding icon Revancify Red' 'Custom branding icon YouTube Music' 'Custom branding icon YouTube Music' 'Custom playback speed' 'Enable custom filter' 'Enable old style library shelf' 'Enable old style miniplayer' 'Enable zen mode' 'Hide category bar' 'Hide new playlist button' 'Hide playlist card' 'Hide radio button' 'Remember playback speed' 'Replace dismiss queue' 'Return YouTube Dislike' 'SponsorBlock 'Enable debugging' 'Translations'"
